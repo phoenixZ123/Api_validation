@@ -4,7 +4,7 @@
 
 u should write like this:
 
-firstname|lastname|Name|Email|password|      <====== This is the heading of the table
----------|--------|----|-----|-------|     
-johnn    |smith   |john@example.com|1212| <=== you should at least 4 characters.
+firstname|lastname|Name|Email|password|     
+-----|-----|----|-----|-------|     
+johnn|smith|john@example.com|1212| 
 
