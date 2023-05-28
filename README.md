@@ -6,5 +6,5 @@ u should write like this:
 
 firstname|lastname|Name|Email|password|     
 -----|-----|----|-----|-------|     
-johnn|smith|john@example.com|1212| 
+johnn|smith|john@example.com|password| 
 
