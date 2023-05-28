@@ -4,7 +4,7 @@
 
 u should write like this:
 
-firstname|lastname|Name|Email|password|     
+firstname|lastname|Email|password|     
 -----|-----|----|-----|-------|     
 johnn|smith|john@example.com|password| 
 
