@@ -3,4 +3,8 @@
 #`Validate to user input strings `
 
 u should write like this:
-![alt text](https://github.com/[username]/https://github.com/phoenixZ123/Api_validation.git/C:\Users\Dell\Pictures\Screenshots/true.png?raw=true)
+
+firstname|lastname|Name|Email|password|      <====== This is the heading of the table
+---------|--------|----|-----|-------|     
+johnn    |smith   |john@example.com|1212| <=== you should at least 4 characters.
+
